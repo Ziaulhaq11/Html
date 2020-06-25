@@ -8,3 +8,8 @@ Head tag  -- we define the title and description in this tag we can import other
 
 Attributes / Properties  -- inside the tags like name inside meta
 
+Header,main and footer tags and article,section tags are very useful for seo purpose also. We can do the same thing without using them
+as well but these will improve our webrating
+
+
+
