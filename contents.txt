@@ -1,0 +1,10 @@
+//its like a home page of web browsera
+Two types of tags : 
+
+1.Single tag     -- it dont need a closing tag like <!DOCTYPE Html>
+2.Container tags -- it means there will be two tags one for  opening and another for closing and these are like containers holding other tags or contents
+
+Head tag  -- we define the title and description in this tag we can import other files also its like a settings
+
+Attributes / Properties  -- inside the tags like name inside meta
+
