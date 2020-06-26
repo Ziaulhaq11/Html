@@ -11,5 +11,10 @@ Attributes / Properties  -- inside the tags like name inside meta
 Header,main and footer tags and article,section tags are very useful for seo purpose also. We can do the same thing without using them
 as well but these will improve our webrating
 
+Two elements in Html
+1.Block   (takes the entire width of the page for example you cant put something else on the page but you can in inline)
+2.Inline  (takes just the space of what it need)
+span are inline containers
+divs are block  containers
 
 
