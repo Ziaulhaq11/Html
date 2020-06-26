@@ -1,3 +1,34 @@
+Tags:
+div and span
+formatting:
+    header : nav : 
+    main : article : section : aside
+    footer : 
+form : 
+    input : type : email,text,password,date,
+    email,range,file,checkbox,submit,color,
+    input : name : type : radio
+    textarea : cols : rows
+iframe : src (link): frameborder,width,height
+img : src ,alt,height,width
+a : href , target ,
+h1 - h6
+br : break
+hr : horizontal line 
+p : paragraph , b , i , big ,small 
+sub , sup ,
+Lists : 
+    ul : li :
+    ol (type : ): li
+    dl : dt,dd
+<p style = 'color : ; background-color :
+Table : 
+    table  : caption : tr : th ; tr: td (colspan=2)
+    table : thead : caption : tr : th; 
+    table : tbody : tr : td
+video : src , poster , `autoplay, loop , controls, width, 
+iframe : youtube embed link
+
 //its like a home page of web browsera
 Two types of tags : 
 
@@ -16,30 +47,3 @@ Two elements in Html
 2.Inline  (takes just the space of what it need)
 span are inline containers
 divs are block  containers
-
-Tags:
-div and span
-header : nav : 
-main : article : section : aside
-footer : 
-form : input : type : email,text,password,date,
-       email,range,file,checkbox,submit,color,
-input : name : type : radio
-textarea : cols : rows
-iframe : src (link): frameborder,width,height
-img : src ,alt,height,width
-a : href , target ,
-h1 - h6
-br : break
-hr : horizontal line
-p : paragraph , b , i , big ,small
-sub , sup ,
-ul : li :
-ol : li
-dl : dt,dd
-<p style = 'color : ; background-color :
-table  : caption : tr : th ; tr : td
-table : thead : caption : tr : th; 
-table : tbody : tr : td
-video : src , poster , `autoplay, loop , controls, width, 
-iframe : youtube embed link
