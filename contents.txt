@@ -41,5 +41,5 @@ dl : dt,dd
 table  : caption : tr : th ; tr : td
 table : thead : caption : tr : th; 
 table : tbody : tr : td
-video : src , poster , autoplay, loop , controls, width, 
+video : src , poster , `autoplay, loop , controls, width, 
 iframe : youtube embed link
